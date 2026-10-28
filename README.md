@@ -54,6 +54,3 @@ Aanya Sharma (Savings ₹12,500) and Rohan Verma (Current ₹8,000) are fictiona
 - `DPY-6005 cannot connect`: ensure Oracle listener/database services are running and host/port are correct.
 - `ORA-00001` while running sample data: it has probably already been inserted; do not rerun it unless you reset the schema first.
 - Python package installation errors on a nonstandard Python build: use standard 64-bit Windows Python 3.13 and recreate `.venv`.
-
-## Suggested submission evidence
-Capture screenshots of: dashboard, customer list, account list, successful deposit, successful transfer, transaction history, and SQL Developer verification query. Add these to your report with figure captions.
